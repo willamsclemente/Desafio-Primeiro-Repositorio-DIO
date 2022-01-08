@@ -1,0 +1,5 @@
+Comandos utilizados para atualização deste repositório:
+git clone "https://github.com/willamsclemente/Desafio-Primeiro-Repositorio-DIO.git" = para clonar o repositório
+git add . = para adicionar os arquivos modificados a area de staging
+git commit -m "mensagem" = para salvar as mudanças realizadas
+git push origin master = para mandar as mudanças para o repositório remoto
